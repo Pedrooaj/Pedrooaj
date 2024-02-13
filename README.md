@@ -1,16 +1,27 @@
-### Hi there 👋
-### 
+<h1 align="center">About Me😀👋</h1>
+<h2 align="center">Hello, I'm Pedro Antônio Junior front-end and low code developer👨‍💻 <hr>
+In my spare time I am normally programming in JavaScript and using the ReactJS framework for larger applications. I also program in C++ on Arduino.</h2>
 
-**Pedrooaj/Pedrooaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+These are the technologies I use and study📚🎓:
 
-Here are some ideas to get you started:
+<div>
+  <ul>
+    <li>Python📚</li>
+    <li>C++📚</li>
+    <li>JavaScript📚</li>
+    <li>Html/Css🎓</li>
+    <li>ReactJS⚛️</li>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+<div align="center">
+<img src="https://github.com/Pedrooaj/Pedrooaj/assets/133423641/ea547530-19df-4f79-b50e-4b835933ba1e" width="8%" height="10%" />
+<img src="https://github.com/Pedrooaj/Pedrooaj/assets/133423641/373ea7e8-83e1-465f-9eb2-8dda7a921b4c" width="10%" height="10%" />
+<img src="https://github.com/Pedrooaj/Pedrooaj/assets/133423641/86ec3973-c776-43a8-82da-07de276879d8" width="10%" height="10%" />
+<img src="https://github.com/Pedrooaj/Pedrooaj/assets/133423641/61d28d04-b119-47fa-8314-bf7e45259f95" width="10%" height="10%" />
+<img src="https://github.com/Pedrooaj/Pedrooaj/assets/133423641/9682f698-ae1c-45d4-ba03-0524bf858a70" width="10%" height="10%" />
+</div>
 
