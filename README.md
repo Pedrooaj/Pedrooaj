@@ -4,15 +4,19 @@ In my spare time I am normally programming in JavaScript and using the ReactJS f
 
 These are the technologies I use and study📚🎓:
 
-<div>
+<div align="start">
   <ul>
     <li>Python📚</li>
     <li>C++📚</li>
     <li>JavaScript📚</li>
     <li>Html/Css🎓</li>
     <li>ReactJS⚛️</li>
+    <div align="center"><img  src="https://github.com/Pedrooaj/Pedrooaj/assets/133423641/dc3994c2-21b4-4fb9-ba43-f53c45433d72" width="25%" height="20%" /></div>
   </ul>
+  
+  
 </div>
+
 
 
 
