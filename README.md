@@ -13,9 +13,7 @@ These are the technologies I use and study📚🎓:
     <li>ReactJS ⚛️</li>
     <li>Firebase</li>
     <li>MySQL</li>
-    <div>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrooaj&show_icons=true&count_private=true&theme=tokyonight)
-    </div>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrooaj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
     <div align="center"><img  src="https://github.com/Pedrooaj/Pedrooaj/assets/133423641/dc3994c2-21b4-4fb9-ba43-f53c45433d72" width="25%" height="20%" /></div>
   </ul>
   
