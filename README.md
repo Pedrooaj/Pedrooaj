@@ -16,8 +16,8 @@ These are the technologies I use and study 📚 🎓:
     <div align="center"><img  src="https://github.com/Pedrooaj/Pedrooaj/assets/133423641/dc3994c2-21b4-4fb9-ba43-f53c45433d72" width="25%" height="20%" /></div>
   </ul>  
 </div>
-  <h1 align="center">Github Stats</h1>
-  <a align="center" href="https://github.com/Pedrooaj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooaj&layout=compact" alt="Top Languages" /></a>
+  <h1 align="left">Github Stats</h1>
+  <a align="left" href="https://github.com/Pedrooaj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooaj&layout=compact" alt="Top Languages" /></a>
 
 
 
