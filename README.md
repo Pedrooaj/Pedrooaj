@@ -17,7 +17,7 @@ These are the technologies I use and study 📚 🎓:
   </ul>  
 </div>
   <h1 align="center">Github Stats</h1>
-  <a style="margin: 0 auto;" href="https://github.com/Pedrooaj" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooaj&layout=compact" alt="Top Languages" /></a>
+  <a style="margin: 0 auto;" href="https://github.com/Pedrooaj"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrooaj&layout=compact" alt="Top Languages" /></a>
 
 
 
