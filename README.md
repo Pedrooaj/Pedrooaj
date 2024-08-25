@@ -14,6 +14,28 @@
 
 ###
 
+<h2 align="left">Contact-me</h2>
+
+###
+
+<div align="left">
+  <a href="https://wa.me/5585991347698?text=Ol%C3%A1%2C%20Falo%20com%20Pedrooaj%3F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/pedrooaj/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://linkedin.com/in/pedro-antônio-l3m0z" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">✉️ pedroantonio5735@gmail.com</p>
+
+###
+
 <h2 align="left">I code with 🚀</h2>
 
 ###
