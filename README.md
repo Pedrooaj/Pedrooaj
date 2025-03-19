@@ -47,7 +47,7 @@
 <div align="center">
 
 
-<div style="display: flex; justify-content: space-arround">
+<div style="display: inline; justify-content: space-arround">
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 
