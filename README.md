@@ -47,7 +47,7 @@
 <div align="center">
 
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; align-items: center; gap: 5px; flex-wrap: wrap;">
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 
@@ -63,7 +63,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 
-  <br />
 
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
 
