@@ -47,7 +47,7 @@
 <div align="center">
 
 
-<div style="display: inline-block; ">
+<div style="display: flex; flex-direction: row;">
   <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 
