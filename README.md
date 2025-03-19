@@ -49,7 +49,7 @@
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrooaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   </div>
-   
+   <br />
 <div>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
